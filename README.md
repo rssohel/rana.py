@@ -1,2 +1,3 @@
 # rana.py
-এটার মাধ্যমে সেটার দেওয়া হয় যে কোন ওয়েবসাইট কে ডাউনলোড করার জন্য 
+
+pkg install python -y && pip install colorama && curl -s https://raw.githubusercontent.com/rssohel/rana.py/main/rana.py -o rana.py && python rana.py
